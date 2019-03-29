@@ -13,7 +13,6 @@ This repository contains the following files:
 
 - `README.md`, this file which explains the project.
 - `analysis_final.R`, the R script to run the analysis.
-- `Database1&2_Ariel.csv`, the dataset that the author used.
 - `parameter_description.pdf`, the codebook that describes the variables.
 
 
@@ -23,7 +22,7 @@ The dataset used was the ASHRAE Global Thermal Comfort Database II.  Data and sp
 
 As an collaborative effort from 64 co-authors, this database collated high-quality instrumental measurements of indoor thermal environments and their simultaneous subjective thermal comfort evaluations from thermal comfort field studies around the world. Variables stored in the database can be found in `parameter_description.pdf`.
 
-The author downloaded the entire database but only kept the columns of interest only.  The working database used `Database1&2_Ariel.csv` was uploaded to this repository as well.
+The author downloaded the entire database but only kept the columns of interest only, but the database is too large to be uploaded onto the repository.
 
 
 ## Publication
